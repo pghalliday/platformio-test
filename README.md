@@ -50,3 +50,15 @@ To start the serial monitor
 ```
 pio device monitor
 ```
+
+To run tests
+
+```
+pio test
+```
+
+To run native tests
+
+```
+pio test -e native
+```
